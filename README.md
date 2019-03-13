@@ -2,11 +2,12 @@
 Reading list for learning more about particular areas of data science and machine learning 
 
 Reading Next
-Storytelling With Data: A Data Visualization Guide for Business Professionals 
+
+'''Storytelling With Data: A Data Visualization Guide for Business Professionals 
 Data Visualisation: A Handbook for Data Driven Design
 Programming Collective Intelligence
 Natural Language Processing with Python
-
+'''
 Completed readings
 Data Science (MIT press) 
 The AI Delusion
