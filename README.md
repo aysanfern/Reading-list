@@ -3,11 +3,12 @@ Reading list for learning more about particular areas of data science and machin
 
 Reading Next
 
-'''Storytelling With Data: A Data Visualization Guide for Business Professionals 
+```
+Storytelling With Data: A Data Visualization Guide for Business Professionals 
 Data Visualisation: A Handbook for Data Driven Design
 Programming Collective Intelligence
 Natural Language Processing with Python
-'''
+```
 Completed readings
 Data Science (MIT press) 
 The AI Delusion
@@ -18,3 +19,4 @@ Inflection Point
 Currently reading
 LIFE 3.0 
 Data Smart
+
